@@ -1,0 +1,21 @@
+<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m22.01,7.27l0,2.53a0.24,0.25 0 0 1 -0.24,0.25l-2.41,0a0.24,0.25 0 0 1 -0.24,-0.25l0,-2.53a0.24,0.25 0 0 1 0.24,-0.25l2.41,0a0.24,0.25 0 0 1 0.24,0.25zm-3.62,1.01l-0.24,0l0,-2.28l2.17,0l0,0.25a0.24,0.25 0 0 0 0.48,0l0,-0.51a0.24,0.25 0 0 0 -0.24,-0.25l-2.66,0a0.24,0.25 0 0 0 -0.24,0.25l0,2.79a0.24,0.25 0 0 0 0.24,0.25l0.48,0a0.24,0.25 0 0 0 0,-0.51l0.01,0z" fill="url(#svg_5)" id="svg_1"/>
+  <text fill="url(#svg_10)" font-family="Serif" font-size="24" font-weight="bold" id="svg_2" stroke="url(#svg_8)" stroke-width="0" text-anchor="middle" transform="matrix(0.31656 0 0 0.30713 16.7198 12.6857)" x="-14.75" xml:space="preserve" y="10.91">RVG</text>
+ </g>
+ <defs>
+  <linearGradient id="svg_5" x1="0" x2="1" y1="0" y2="0">
+   <stop id="jq_stop_1174" offset="0" stop-color="#bf0000"/>
+   <stop id="jq_stop_7702" offset="1" stop-color="#ff7f00"/>
+  </linearGradient>
+  <linearGradient id="svg_8">
+   <stop id="jq_stop_3634" offset="0" stop-color="#ffffff"/>
+   <stop id="jq_stop_3468" offset="1" stop-color="#000000"/>
+  </linearGradient>
+  <linearGradient id="svg_10" spreadMethod="pad" x1="0" x2="1" y1="0" y2="0">
+   <stop id="jq_stop_2139" offset="0" stop-color="rgb(26,6,0)"/>
+   <stop id="jq_stop_6429" offset="1" stop-color="rgb(77,18,0)" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+</svg>

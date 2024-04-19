@@ -1,0 +1,38 @@
+.main-footer {
+  display: grid;
+  grid-area: footer;
+  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 1fr;
+  grid-gap: 0.3rem;
+  justify-content: center;
+}
+
+.main-footer p {
+  display: grid;
+  grid-auto-flow: column;
+  justify-content: center;
+  align-items: center;
+  grid-gap: 0.3rem;
+}
+
+.main-footer span {
+  display: grid;
+  grid-auto-flow: column;
+}
+
+@media (min-width: 30rem) {
+  .main-footer {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    justify-content: space-between;
+  }
+
+  .main-footer p {
+    justify-content: start;
+  }
+
+  .main-footer span {
+    justify-content: space-evenly;
+    align-items: center;
+  }
+}

@@ -1,0 +1,22 @@
+.side-navigation {
+  display: grid;
+  grid-gap: 0.5rem;
+}
+
+.side-navigation a {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-gap: 0.5rem;
+  align-items: center;
+  background: brown;
+}
+
+@media (min-width: 30rem) {
+  .side-navigation {
+    align-content: start;
+  }
+
+  .side-navigation a {
+    background: none;
+  }
+}

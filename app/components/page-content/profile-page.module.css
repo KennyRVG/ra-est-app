@@ -1,0 +1,15 @@
+.profile-page {
+  display: grid;
+  grid-template-areas: "sidebar" "main";
+  grid-template-rows: auto 1fr;
+  grid-gap: 0.3rem;
+  margin-top: 0.3rem;
+}
+
+@media (min-width: 30rem) {
+  .profile-page {
+    grid-template-areas: "sidebar main";
+    grid-template-columns: auto 1fr;
+    grid-template-rows: auto;
+  }
+}
